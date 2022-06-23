@@ -13,3 +13,5 @@ File 5-This script adds execute permission to the owner of the file hello.
 File 6-This script adds execute permission to the owner and the group owner, and read permission to the other users, to the file hello.
 
 File 7-This script adds execution permission to the owner, the groupowner, and the other users to the file hello.
+
+File 8-This script sets all permissions to the file hello only to other users
