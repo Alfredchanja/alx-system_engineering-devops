@@ -25,3 +25,5 @@ File 11-This file creates a script that adds execute permission to all subdirect
 File 12-This file creates a script that creates a directory called mydir with permissions 751 in the working directory.
 
 File 13-This file changes the group owner to school for the file hello.
+
+File 14-This script changes the owner to vincent and the group owner to staff for all files and directories in the working directory.
