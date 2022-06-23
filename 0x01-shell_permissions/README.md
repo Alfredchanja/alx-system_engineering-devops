@@ -26,8 +26,10 @@ File 12-This file creates a script that creates a directory called mydir with pe
 
 File 13-This file changes the group owner to school for the file hello.
 
-File 14-This script changes the owner to vincent and the group owner to staff for all files and directories in the working directory.
+File 100-This script changes the owner to vincent and the group owner to staff for all files and directories in the working directory.
 
-File 15-This file changes the owner and the group owner of _hello to vincent and staff respectively.
+File 101-This file changes the owner and the group owner of _hello to vincent and staff respectively.
 
-File 16-This script changes the owner of the file hello to betty only if it is owned by the user guillaume
+File 102-This script changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
+File 103-This file will play the StarWarsIV episode in the terminal
