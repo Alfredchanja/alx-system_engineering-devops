@@ -14,4 +14,6 @@ File 6-This script adds execute permission to the owner and the group owner, and
 
 File 7-This script adds execution permission to the owner, the groupowner, and the other users to the file hello.
 
-File 8-This script sets all permissions to the file hello only to other users
+File 8-This script sets all permissions to the file hello only to other users.
+
+File 9-This script sets the mode 753 of the file hello.
