@@ -19,3 +19,5 @@ File 8-This script sets all permissions to the file hello only to other users.
 File 9-This script sets the mode 753 of the file hello.
 
 File 10-This file sets the mode of the file hello the same as olleh's mode.
+
+File 11-This file creates a script that adds execute permission to all subdirectories of the current directory for the owner, the groupowner and all other users.
