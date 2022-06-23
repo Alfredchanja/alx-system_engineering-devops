@@ -9,3 +9,5 @@ File 3-This script changes the ownership of the file hello to the user betty.
 File 4-This script creates an empty file called hello.
 
 File 5-This script adds execute permission to the owner of the file hello.
+
+File 6-This script adds execute permission to the owner and the group owner, and read permission to the other users, to the file hello.
