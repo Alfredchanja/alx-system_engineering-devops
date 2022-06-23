@@ -5,3 +5,7 @@ File 1-The script that prints the effective usernameof the current user.
 File 2-This script prints all the groups the current  user is part ofi.
 
 File 3-This script changes the ownership of the file hello to the user betty.
+
+File 4-This script creates an empty file called hello.
+
+File 5-This script adds execute permission to the owner of the file hello.
