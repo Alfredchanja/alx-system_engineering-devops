@@ -31,3 +31,9 @@ File 14-Displays the line containing the pattern "root" from the file /etc/passw
 File 15-Displays the number of lines that contain the pattern "bin" in the file /etc/passwd.
 
 File 16-Displays the lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
+
+File 17-Displays all the lines in the file /etc/passwd that do not contain the pattern "bin".
+
+File 18-Displays all the lines of the file /etc/ssh/sshdconfig starting with a letter.
+
+
