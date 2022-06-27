@@ -44,4 +44,10 @@ File 21-Reverse its input.
 
 File 22-DIsplays all users and their home directories, sorted by users.
 
+File 100-Finds all empty files and directoriesin the current directory and all sub-directories.
 
+File 101-Lists all the files with a .fit extension in the current directory and all its sub-directories.
+
+File 102-Decodes an acrostics that use the first letter of each line.
+
+File 103-Parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
