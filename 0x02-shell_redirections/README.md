@@ -39,3 +39,9 @@ File 18-Displays all the lines of the file /etc/ssh/sshdconfig starting with a l
 File 19-Replaces all the charecters A and C from input to z and e repectively.
 
 File 20-Removes all letters c and C from input.
+
+File 21-Reverse its input.
+
+File 22-DIsplays all users and their home directories, sorted by users.
+
+
