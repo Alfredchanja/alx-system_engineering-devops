@@ -15,3 +15,5 @@ File 6-Displays the third line of the file iacta.
 File 7-Creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
 File 8-Write into the file lscwdcontent the results of the command ls -la. It creates the file lscwdcontent if it does not exist and if it already exists it is overwritten.
+
+File 9-Duplicates the last line of the file iacta. 
