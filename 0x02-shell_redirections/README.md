@@ -16,4 +16,6 @@ File 7-Creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing th
 
 File 8-Write into the file lscwdcontent the results of the command ls -la. It creates the file lscwdcontent if it does not exist and if it already exists it is overwritten.
 
-File 9-Duplicates the last line of the file iacta. 
+File 9-Duplicates the last line of the file iacta.
+
+File 10-This file finds and deletes all regular files with a .js extension present in the current working directory and all its subfolders. 
