@@ -36,4 +36,6 @@ File 17-Displays all the lines in the file /etc/passwd that do not contain the p
 
 File 18-Displays all the lines of the file /etc/ssh/sshdconfig starting with a letter.
 
+File 19-Replaces all the charecters A and C from input to z and e repectively.
 
+File 20-Removes all letters c and C from input.
