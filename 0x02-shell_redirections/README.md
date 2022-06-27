@@ -22,4 +22,8 @@ File 10-This file finds and deletes all regular files with a .js extension prese
 
 File 11-It counts the number of directories and subdirectories in the current directory.
 
-File 12-Displays the 10 newest files in the current directory. 
+File 12-Displays the 10 newest files in the current directory.
+
+File 13-Takes a list of words as inputand prints only words that appear exactly once.
+
+
