@@ -18,4 +18,6 @@ File 8-Write into the file lscwdcontent the results of the command ls -la. It cr
 
 File 9-Duplicates the last line of the file iacta.
 
-File 10-This file finds and deletes all regular files with a .js extension present in the current working directory and all its subfolders. 
+File 10-This file finds and deletes all regular files with a .js extension present in the current working directory and all its subfolders.
+
+File 11-It counts the number of directories and subdirectories in the current directory. 
