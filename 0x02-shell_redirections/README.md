@@ -20,4 +20,6 @@ File 9-Duplicates the last line of the file iacta.
 
 File 10-This file finds and deletes all regular files with a .js extension present in the current working directory and all its subfolders.
 
-File 11-It counts the number of directories and subdirectories in the current directory. 
+File 11-It counts the number of directories and subdirectories in the current directory.
+
+File 12-Displays the 10 newest files in the current directory. 
