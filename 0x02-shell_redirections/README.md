@@ -26,4 +26,8 @@ File 12-Displays the 10 newest files in the current directory.
 
 File 13-Takes a list of words as inputand prints only words that appear exactly once.
 
-File 14-Displays the line containing the pattern "root" from the file /etc/passwd
+File 14-Displays the line containing the pattern "root" from the file /etc/passwd.
+
+File 15-Displays the number of lines that contain the pattern "bin" in the file /etc/passwd.
+
+File 16-Displays the lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
