@@ -25,3 +25,5 @@ File 11-This script converts a number from base 2 to base 10. The number in base
 File 12-This script prints all possible combinations of two letters lower case  form a to z, except oo. One combination per line and the out pust should be alpha ordered and a maximum of 64 characters.
 
 File 13-This script prints a number stored in the environment variable with two decimal places, followed by a new line.
+
+File 100-Converts a number from base 10 stored in the environment variable DECIMAL to base 16 followed by a new line.
