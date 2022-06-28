@@ -11,3 +11,5 @@ File  4-This file lists environmental variables.
 File 5-Lists all local variables and environmental variables and functions.
 
 File 6-Creates a new local variable BEST="School".
+
+File 7-creates a new global variable BEST="School".
