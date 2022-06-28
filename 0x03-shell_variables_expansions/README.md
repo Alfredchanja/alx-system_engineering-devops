@@ -9,3 +9,5 @@ File 3-This file creates a script that counts the number of directories in the P
 File  4-This file lists environmental variables.
 
 File 5-Lists all local variables and environmental variables and functions.
+
+File 6-Creates a new local variable BEST="School".
