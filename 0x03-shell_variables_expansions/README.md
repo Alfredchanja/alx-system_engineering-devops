@@ -19,3 +19,7 @@ File 8-This prints the result of the addition of 128 to the value stored in the 
 File 9-This prints the rsults of POWER divided by DIVIDE which are environmental viriables followed by a new line.
 
 File 10-Displays the result of BREATH to the power LOVE where they are environmental variables followed by a new line.
+
+File 11-This script converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY and the script should display the number in base 10 followed by a new line.
+
+File 12-This script prints all possible combinations of two letters lower case  form a to z, except oo. One combination per line and the out pust should be alpha ordered and a maximum of 64 characters.
