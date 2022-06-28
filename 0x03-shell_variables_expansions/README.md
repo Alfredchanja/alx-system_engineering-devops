@@ -23,3 +23,5 @@ File 10-Displays the result of BREATH to the power LOVE where they are environme
 File 11-This script converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY and the script should display the number in base 10 followed by a new line.
 
 File 12-This script prints all possible combinations of two letters lower case  form a to z, except oo. One combination per line and the out pust should be alpha ordered and a maximum of 64 characters.
+
+File 13-This script prints a number stored in the environment variable with two decimal places, followed by a new line.
