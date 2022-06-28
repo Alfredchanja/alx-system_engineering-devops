@@ -13,3 +13,7 @@ File 5-Lists all local variables and environmental variables and functions.
 File 6-Creates a new local variable BEST="School".
 
 File 7-creates a new global variable BEST="School".
+
+File 8-This prints the result of the addition of 128 to the value stored in the environment variable TRUEKNOWLEDGE followed by a new line.
+
+File 9-This prints the rsults of POWER divided by DIVIDE which are environmental viriables followed by a new line.
