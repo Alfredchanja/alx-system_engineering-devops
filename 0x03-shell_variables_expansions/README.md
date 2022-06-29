@@ -27,3 +27,7 @@ File 12-This script prints all possible combinations of two letters lower case  
 File 13-This script prints a number stored in the environment variable with two decimal places, followed by a new line.
 
 File 100-Converts a number from base 10 stored in the environment variable DECIMAL to base 16 followed by a new line.
+
+File 101-Encodes and decodes texts using the rot13 encryption. Assume ASCII.
+
+File 102-Prints every other line from the input, starting with the first line.
