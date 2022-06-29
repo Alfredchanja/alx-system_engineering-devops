@@ -31,3 +31,5 @@ File 100-Converts a number from base 10 stored in the environment variable DECIM
 File 101-Encodes and decodes texts using the rot13 encryption. Assume ASCII.
 
 File 102-Prints every other line from the input, starting with the first line.
+
+File 103-Adds two numbers stored in the environment variables WATER and STIR and prints the results. WATER is in base water, STIR is in base stir and the result should be in base bestchol.
